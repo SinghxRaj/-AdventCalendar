@@ -8,4 +8,4 @@ This is a great opportunity to improve your problem solving skills, try a new la
 ## Description
 This repo will contain the problems that I solve for each year of the AdventOfCode. 
 While I may not solve every problem, I make sure to have my solution on here for the problems that I do solve. This is mostly an 
-opportunity for me to look back on the problems I have solved through the years.
+opportunity for me to look back on the problems I have solved through the years and see my progress/improvement.
