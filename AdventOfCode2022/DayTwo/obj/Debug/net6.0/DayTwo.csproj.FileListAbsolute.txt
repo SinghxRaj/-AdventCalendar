@@ -1,0 +1,15 @@
+D:\users\rajvi\Repos\Personal-Projects\AdventOfCode2022\DayTwo\bin\Debug\net6.0\DayTwo.exe
+D:\users\rajvi\Repos\Personal-Projects\AdventOfCode2022\DayTwo\bin\Debug\net6.0\DayTwo.deps.json
+D:\users\rajvi\Repos\Personal-Projects\AdventOfCode2022\DayTwo\bin\Debug\net6.0\DayTwo.runtimeconfig.json
+D:\users\rajvi\Repos\Personal-Projects\AdventOfCode2022\DayTwo\bin\Debug\net6.0\DayTwo.dll
+D:\users\rajvi\Repos\Personal-Projects\AdventOfCode2022\DayTwo\bin\Debug\net6.0\DayTwo.pdb
+D:\users\rajvi\Repos\Personal-Projects\AdventOfCode2022\DayTwo\obj\Debug\net6.0\DayTwo.csproj.AssemblyReference.cache
+D:\users\rajvi\Repos\Personal-Projects\AdventOfCode2022\DayTwo\obj\Debug\net6.0\DayTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\rajvi\Repos\Personal-Projects\AdventOfCode2022\DayTwo\obj\Debug\net6.0\DayTwo.AssemblyInfoInputs.cache
+D:\users\rajvi\Repos\Personal-Projects\AdventOfCode2022\DayTwo\obj\Debug\net6.0\DayTwo.AssemblyInfo.cs
+D:\users\rajvi\Repos\Personal-Projects\AdventOfCode2022\DayTwo\obj\Debug\net6.0\DayTwo.csproj.CoreCompileInputs.cache
+D:\users\rajvi\Repos\Personal-Projects\AdventOfCode2022\DayTwo\obj\Debug\net6.0\DayTwo.dll
+D:\users\rajvi\Repos\Personal-Projects\AdventOfCode2022\DayTwo\obj\Debug\net6.0\refint\DayTwo.dll
+D:\users\rajvi\Repos\Personal-Projects\AdventOfCode2022\DayTwo\obj\Debug\net6.0\DayTwo.pdb
+D:\users\rajvi\Repos\Personal-Projects\AdventOfCode2022\DayTwo\obj\Debug\net6.0\DayTwo.genruntimeconfig.cache
+D:\users\rajvi\Repos\Personal-Projects\AdventOfCode2022\DayTwo\obj\Debug\net6.0\ref\DayTwo.dll

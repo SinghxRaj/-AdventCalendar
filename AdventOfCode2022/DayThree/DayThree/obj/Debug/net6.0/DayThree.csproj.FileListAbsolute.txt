@@ -1,0 +1,15 @@
+D:\users\rajvi\Repos\Personal-Projects\AdventOfCode2022\DayThree\DayThree\bin\Debug\net6.0\DayThree.exe
+D:\users\rajvi\Repos\Personal-Projects\AdventOfCode2022\DayThree\DayThree\bin\Debug\net6.0\DayThree.deps.json
+D:\users\rajvi\Repos\Personal-Projects\AdventOfCode2022\DayThree\DayThree\bin\Debug\net6.0\DayThree.runtimeconfig.json
+D:\users\rajvi\Repos\Personal-Projects\AdventOfCode2022\DayThree\DayThree\bin\Debug\net6.0\DayThree.dll
+D:\users\rajvi\Repos\Personal-Projects\AdventOfCode2022\DayThree\DayThree\bin\Debug\net6.0\DayThree.pdb
+D:\users\rajvi\Repos\Personal-Projects\AdventOfCode2022\DayThree\DayThree\obj\Debug\net6.0\DayThree.csproj.AssemblyReference.cache
+D:\users\rajvi\Repos\Personal-Projects\AdventOfCode2022\DayThree\DayThree\obj\Debug\net6.0\DayThree.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\rajvi\Repos\Personal-Projects\AdventOfCode2022\DayThree\DayThree\obj\Debug\net6.0\DayThree.AssemblyInfoInputs.cache
+D:\users\rajvi\Repos\Personal-Projects\AdventOfCode2022\DayThree\DayThree\obj\Debug\net6.0\DayThree.AssemblyInfo.cs
+D:\users\rajvi\Repos\Personal-Projects\AdventOfCode2022\DayThree\DayThree\obj\Debug\net6.0\DayThree.csproj.CoreCompileInputs.cache
+D:\users\rajvi\Repos\Personal-Projects\AdventOfCode2022\DayThree\DayThree\obj\Debug\net6.0\DayThree.dll
+D:\users\rajvi\Repos\Personal-Projects\AdventOfCode2022\DayThree\DayThree\obj\Debug\net6.0\refint\DayThree.dll
+D:\users\rajvi\Repos\Personal-Projects\AdventOfCode2022\DayThree\DayThree\obj\Debug\net6.0\DayThree.pdb
+D:\users\rajvi\Repos\Personal-Projects\AdventOfCode2022\DayThree\DayThree\obj\Debug\net6.0\DayThree.genruntimeconfig.cache
+D:\users\rajvi\Repos\Personal-Projects\AdventOfCode2022\DayThree\DayThree\obj\Debug\net6.0\ref\DayThree.dll
